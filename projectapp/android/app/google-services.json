@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "282946079215",
+    "project_id": "tourist-trail",
+    "storage_bucket": "tourist-trail.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282946079215:android:e40e06e71e17e72052ce1a",
+        "android_client_info": {
+          "package_name": "com.example.projectapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBQY2eco9KgYYLMpZTtLKdtByMCcFIBzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
